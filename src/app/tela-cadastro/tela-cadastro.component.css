@@ -1,0 +1,83 @@
+.i{
+    margin: auto;
+    display: block;
+    width: 300px;
+    height: 100px;
+   
+    
+}
+
+.login_body {
+padding: 60px;
+z-index: 90;
+position: relative;
+max-width: 600px;
+height: 400px;
+margin-top: 10px;
+margin-bottom: 150px;
+margin-left: 50%;
+background-image: linear-gradient(45deg,rgb(11, 10, 26),rgba(38, 137, 212, 0.773));
+border-radius: 40px;
+box-sizing: border-box;
+transform: translateX(-50%);
+}
+
+
+.login_body input {
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: rgba(165, 188, 196, 0.841);
+    border: none;
+    border-radius: 30px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.login_body input:hover {
+    background-color: rgb(146, 177, 200);
+}
+
+.input_box {
+    margin-bottom: 25px;
+}
+
+.login_body button {
+ height: 50px;
+ width: 100%;
+ color: #fff;
+ background-color: rgba(11, 10, 26, 0.179);
+ border-radius: 40px;
+ font-weight: bold;
+ font-size: 16px;
+ border: none;
+ margin-bottom: 10px;
+}
+
+.login_body button:hover {
+    background-color: rgb(46, 42, 97);
+    cursor: pointer;
+}
+
+.support {
+    display: flex;
+    color: #b3b3b3;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+
+.support input {
+    width: 15px;
+    height: 15px;
+}
+.remember {
+display: flex;
+align-items: center;
+}
+
+.remeber span {
+ margin-right: 5px;
+ height: 25px;
+}
