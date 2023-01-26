@@ -87,16 +87,4 @@
 
 
   
-    .sign_up {
-        color: #737373;
-        font-size: 16px;
-    }
     
-    .sign_up a {
-        color: #fff;
-        font-size: 16px;
-        text-decoration: none;
-    }
-    .sign_up a:hover {
-        text-decoration: underline;
-    }

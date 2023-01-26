@@ -1,0 +1,144 @@
+
+#linha{
+    background-image: linear-gradient(45deg,rgb(38, 137, 212, 0.773),rgba(11, 10, 26));
+    float: left;
+    width: 100%;
+
+}
+.logo{
+    float:left;
+    height: 30px;
+    margin: 5px 5px 60px 135px;
+}
+
+.image{
+    margin-top: 20px ;
+    width: 200px;
+    height: 50px;
+}
+.top{
+
+    height: 450px;
+    width: 100%;
+    position: right center;
+}
+
+header nav{ /*alinhou as letras no topo*/
+    top: 60px;
+    right: 80px;
+   position: absolute;
+}
+
+.top nav li{
+    display: inline-block;
+    margin-left: 10px;
+    list-style: none;
+
+    
+}
+.top nav a{
+    background-color: rgba (0 , 0,0 , 0.8);
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    display: block;
+   
+    
+}
+.top nav ul{
+    text-align: right;
+    margin: 20px 50px 0 0;
+    float: right;
+    
+}
+.top nav a:hover{
+    background-color :rgba(255, 255, 255, 0.367);
+    cursor: pointer;
+}
+main h1{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: rgb(23, 23, 65);
+}
+main p{
+    text-align: center;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 50px;
+    line-height: 2;
+    color: rgb(42, 58, 88);
+}
+.content-section{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.letter{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 16px;
+    font-weight: bold; 
+}
+
+.photo{
+    width: 250px;
+    height: 150px;
+}
+.card1{
+    margin-left: 20px;
+}
+.card{
+    width: 32%;
+    float: left; 
+    margin-top: 50px;   
+    text-align: center; 
+    overflow: auto;   
+    margin-bottom: 50px;
+}
+
+.About{
+    background-color: #003d52;
+    padding: 120px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    clear: both;
+    margin:100px 0;
+    
+}
+.inside-article{
+    line-height: 1,5;
+    width: 70%;
+   
+}
+.About h1{
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 15px;
+}
+.About  h2{
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.google{
+width: 100%;
+height: 450px;
+margin-top: 15px;
+}
+.google iframe{
+    width: 100%;
+}
+footer{
+    background: #0b171f;
+    padding: 25px;
+    font-size: 12px;
+    color: #6f8597;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 40px;
+}
