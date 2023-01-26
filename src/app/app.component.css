@@ -1,0 +1,10 @@
+
+.cadastro, .login,.produtos{
+    background-color: rgba(38, 137, 212, 0.773);
+    display: inline-block;
+    border: solid 5px rgba(11, 10, 26, 0.372); 
+    margin: 0 5px 0 0px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
