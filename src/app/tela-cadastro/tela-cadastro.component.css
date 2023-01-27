@@ -75,6 +75,7 @@ transform: translateX(-50%);
 .remember {
 display: flex;
 align-items: center;
+font-size: 15px;
 }
 
 .remeber span {

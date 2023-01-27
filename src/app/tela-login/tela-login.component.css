@@ -67,8 +67,9 @@
         display: flex;
         color: #b3b3b3;
         justify-content: space-between;
-        font-size: 12px;
+        font-size: 15px;
         margin-bottom: 12px;
+
     }
     
     .support input {
@@ -78,11 +79,16 @@
     .remember {
     display: flex;
     align-items: center;
+    font-size: 15px;
     }
     
     .remeber span {
      margin-right: 5px;
      height: 25px;
+    }
+    .signUp{
+        font-size: 15px;
+        margin-left: 10px;
     }
 
 
